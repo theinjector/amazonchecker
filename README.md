@@ -12,6 +12,7 @@ A Simple  Script Written in Python to check emails live in Amazon
 ### Quick Setup
 - Clone the repository: `git clone https://github.com/theinjector/amazonchecker`
 - Install pip requirements: `pip3 install -r requirements.txt`
+- Put your Emails in `list.txt`
 ### Run the program
 - Usage: `python3 amazon.py`
 #### Disclaimer
