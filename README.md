@@ -4,7 +4,8 @@ Amazon Email Checker
 # Checker 2021
 A Simple  Script Written in Python to check emails live in Amazon
 
-
+![](https://i.ibb.co/TkQL8VW/screen.png)
+![](https://i.ibb.co/9ctj7G7/screen1.png)
 
 ## Deployment
 ### Pre-requisits:
