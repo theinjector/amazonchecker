@@ -26,12 +26,12 @@ while True:
 	if "You indicated you are a new customer, but an account already exists with the e-mail" in cek:
 		print("\033[32m-"*50)
 		print(colored("Live[+]"+email+" | [LIVE AMAZON ]",'green'))
-		live.write(email)
+		live.write(email + "\n")
 	else:
 		print("\033[31m-"*50)
 		print(colored("Die[:(]| "+email+" | [ DEAD AMAZON ]",'red'))
 
-		die.write(email)
+		die.write(email + "\n")
 print("\033[34m-"*50)
 print(colored(exit,'green'))
 print(colored("Done By Theinjector",'yellow'))
